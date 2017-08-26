@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+    <color name="device_logger_1">#b9f6ca</color>
+    <color name="device_logger_2">#c5e1a5</color>
+    <color name="device_logger_3">#ef9a9a</color>
+    <color name="device_logger_4">#e57373</color>
+    <color name="device_logger_5">#ff5252</color>
+
+
+
+</resources>
